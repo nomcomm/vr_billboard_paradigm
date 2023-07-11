@@ -6,9 +6,9 @@ Data and analysis code for * Schmaelzle, Lim, Cho, Wu, & Bente (submitted). The 
 
 ***
 
-<img align="center" width=250px src=data/explainer_fig.png> 
+<img align="left" width=250px src=data/explainer_fig.png> 
 <br>
-<p align="center"> <a data-flickr-embed="true" href="https://www.flickr.com/gp/ralf_schmaelzle/zrq1c9dP74" title="VRBillboardParadigm"><img src="https://live.staticflickr.com/31337/53037962399_8b804f7214_n.jpg" width="320" height="180" alt="VRBillboardParadigm"/></a> </p>
+<p align="right"> <a data-flickr-embed="true" href="https://www.flickr.com/gp/ralf_schmaelzle/zrq1c9dP74" title="VRBillboardParadigm"><img src="https://live.staticflickr.com/31337/53037962399_8b804f7214_n.jpg" width="320" height="180" alt="VRBillboardParadigm"/></a> </p>
 (Note: The video is a replay without skydome and actual images - participant's view had the skydome on and images were superimposed programmatically)
 
 ### Code
