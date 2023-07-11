@@ -9,15 +9,14 @@ Data and analysis code for * Schmaelzle, Lim, Cho, Wu, & Bente (submitted). The 
 <img align="right" width=250px src=data/explainer_fig.png> 
 
 
-
 ### Code
 
--   The current notebooks to reproduce the analyses are in the scripts folder.
+-   The notebooks to reproduce the analyses are in the scripts folder.
 
 
 ### Data
 
--   The raw data (output files with fixation time stamps and fixated messages) is in the data folder
+-   The data and billboards are in the data folder. Note that not all raw data are shared here (size, privacy).
 
 ### Dependencies
 
