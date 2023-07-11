@@ -8,7 +8,7 @@ Data and analysis code for * Schmaelzle, Lim, Cho, Wu, & Bente (submitted). The 
 
 <img align="right" width=250px src=data/explainer_fig.png> 
 
-<a align="right"  data-flickr-embed="true" href="https://www.flickr.com/gp/ralf_schmaelzle/z732861oM8" title="VRBillboardParadigm"><img src="https://combo.staticflickr.com/pw/images/en-us/video-processing/n.png" width="320" height="240" alt="VRBillboardParadigm"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/gp/ralf_schmaelzle/zrq1c9dP74" title="VRBillboardParadigm"><img src="https://live.staticflickr.com/31337/53037962399_8b804f7214_n.jpg" width="320" height="180" alt="VRBillboardParadigm"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Code
 
