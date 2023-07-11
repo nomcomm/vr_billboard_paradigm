@@ -8,7 +8,8 @@ Data and analysis code for * Schmaelzle, Lim, Cho, Wu, & Bente (submitted). The 
 
 <img align="left" width=250px src=data/explainer_fig.png> 
 <br>
-<p align="right"> <a data-flickr-embed="true" href="https://www.flickr.com/gp/ralf_schmaelzle/zrq1c9dP74" title="VRBillboardParadigm"><img src="https://live.staticflickr.com/65535/53037975339_dd544e050d_n.jpg" width="320" height="180" alt="VRBillboardParadigm"/></a> </p>
+<p align="right"> <a data-flickr-embed="true" href="https://www.flickr.com/gp/ralf_schmaelzle/zrq1c9dP74" title="VRBillboardParadigm"><img src="https://live.staticflickr.com/65535/53037980734_363205afb5_n.jpg" width="320" height="209" alt="VRBillboardParadigm"/></a> </p>
+
 <br><br>
 (Note: The video is a replay without skydome and actual images - participant's view had the skydome on and images were superimposed programmatically)
 
