@@ -1,7 +1,7 @@
-Analysis for {authors blinded} (submitted)
+Analysis for Schmaelzle et al. (submitted)
 =============================================
 
-Data and analysis code for  *FINAL TITLE* [Temporary Google Doc](https://docs.google.com/document/d/1o3_6ttUq-PX0GNrQSC6rJg3D8XiYyKFzsP_giCv6PpI/edit?usp=sharing)
+Data and analysis code for * Schmaelzle, Lim, Cho, Wu, & Bente (submitted). The VR Billboard Paradigm: Using VR and Eye-tracking to Examine the Exposure-Reception-Retention Link in Realistic Communication Environments* [LINK TO PAPER](https://linkgoeshere)
 
 
 ***
@@ -17,11 +17,11 @@ Data and analysis code for  *FINAL TITLE* [Temporary Google Doc](https://docs.go
 
 ### Data
 
--   The raw data ...
+-   The raw data (output files with fixation time stamps and fixated messages) is in the data folder
 
 ### Dependencies
 
 -   see environment file
 
 
-2023 | X
+2023 | Ralf Schmaelzle
