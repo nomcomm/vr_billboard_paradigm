@@ -1,7 +1,7 @@
 Analysis for Schmaelzle et al. (2023)
 =============================================
 
-Data and analysis code for * Schmaelzle, Lim, Cho, Wu, & Bente (2023). Examining the Exposure-Reception-Retention Link in Realistic Communication Environments Via VR and Eye-tracking: The VR Billboard Paradigm * [pdf|link](https://doi.org/10.1371/journal.pone.0291924)
+Data and analysis code for * Schmaelzle, Lim, Cho, Wu, & Bente (2023). Examining the Exposure-Reception-Retention Link in Realistic Communication Environments Via VR and Eye-tracking: The VR Billboard Paradigm * [pdf|link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291924)
 
 
 ***
